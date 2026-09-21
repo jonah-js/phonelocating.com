@@ -4,7 +4,7 @@ import SuccessClient from "@/components/SuccessClient";
 
 export const metadata: Metadata = {
   title: "Payment successful",
-  description: "The PhoneTracking report was unlocked.",
+  description: "The PhoneLocating report was unlocked.",
 };
 
 export default function SuccessPage() {

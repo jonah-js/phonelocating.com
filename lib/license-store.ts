@@ -12,6 +12,7 @@ const storePath = path.join(process.cwd(), "data", "licenses.json");
 async function readStore(): Promise<StoredLicense[]> {
   try {
     const raw = await fs.readFile(storePath, "utf8");
+    if (!raw || !raw.trim()) return [];
     return JSON.parse(raw) as StoredLicense[];
   } catch {
     return [];

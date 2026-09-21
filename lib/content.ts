@@ -34,6 +34,7 @@ export const features = [
 export const navLinks = [
   { href: "/features", label: "Features" },
   { href: "/pricing", label: "Pricing" },
+  { href: "/blog", label: "Blog & Guides" },
   { href: "/faq", label: "FAQ" },
   { href: "/about", label: "About" },
   { href: "/contact", label: "Contact" },
@@ -42,11 +43,14 @@ export const navLinks = [
 ];
 
 export const footerLinks = [
+  { href: "/blog", label: "Blog & Guides" },
+  { href: "/faq", label: "FAQ" },
+  { href: "/pricing", label: "Pricing" },
+  { href: "/features", label: "Features" },
+  { href: "/contact", label: "Contact" },
   { href: "/legal-notice", label: "Legal Notice" },
   { href: "/privacy", label: "Privacy" },
   { href: "/terms", label: "Terms" },
   { href: "/cookies", label: "Cookies" },
   { href: "/refund", label: "Refund" },
-  { href: "/faq", label: "FAQ" },
-  { href: "/contact", label: "Contact" },
 ];

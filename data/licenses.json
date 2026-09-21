@@ -1,0 +1,23 @@
+[
+  {
+    "id": "7255edee-e8cf-4cdd-ac2b-d05095ce91e5",
+    "issuedAt": 1788613195600,
+    "phoneNumber": "+49 171 2345678",
+    "sessionId": "test_session_1788613195599",
+    "token": "eyJpZCI6IjcyNTVlZGVlLWU4Y2YtNGNkZC1hYzJiLWQwNTA5NWNlOTFlNSIsImlzc3VlZEF0IjoxNzg4NjEzMTk1NjAwLCJwaG9uZU51bWJlciI6Iis0OSAxNzEgMjM0NTY3OCIsInNlc3Npb25JZCI6InRlc3Rfc2Vzc2lvbl8xNzg4NjEzMTk1NTk5In0.tNpuXFdguIMegWElUZ0RwsBErdopQxFbq2To7CXpIDs"
+  },
+  {
+    "id": "2dae1232-7984-4b13-a08c-3e8c2a988eb0",
+    "issuedAt": 1788677137595,
+    "phoneNumber": "+491712345678",
+    "sessionId": "demo_session_1788677132242_ofooxg",
+    "token": "eyJpZCI6IjJkYWUxMjMyLTc5ODQtNGIxMy1hMDhjLTNlOGMyYTk4OGViMCIsImlzc3VlZEF0IjoxNzg4Njc3MTM3NTk1LCJwaG9uZU51bWJlciI6Iis0OTE3MTIzNDU2NzgiLCJzZXNzaW9uSWQiOiJkZW1vX3Nlc3Npb25fMTc4ODY3NzEzMjI0Ml9vZm9veGcifQ.TkAgMCCil86gzSgr16k1aq1qkxeKq-XZrwQXe5cX-do"
+  },
+  {
+    "id": "c816d489-dc13-40fb-84be-35e39958588a",
+    "issuedAt": 1788716000219,
+    "phoneNumber": "+49 171 2345678",
+    "sessionId": "test_session_1788716000218",
+    "token": "eyJpZCI6ImM4MTZkNDg5LWRjMTMtNDBmYi04NGJlLTM1ZTM5OTU4NTg4YSIsImlzc3VlZEF0IjoxNzg4NzE2MDAwMjE5LCJwaG9uZU51bWJlciI6Iis0OSAxNzEgMjM0NTY3OCIsInNlc3Npb25JZCI6InRlc3Rfc2Vzc2lvbl8xNzg4NzE2MDAwMjE4In0.2kvVlbD7nPD6hBYhWLBX1tuR4VeKO_aUSlWv1TPXbkI"
+  }
+]
