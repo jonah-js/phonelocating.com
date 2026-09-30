@@ -67,7 +67,7 @@ export default function VideoHero() {
         <div className="relative aspect-video w-full bg-slate-950">
           <video
             ref={videoRef}
-            src="/videos/google-earth.mp4"
+            poster="/videos/google-earth-poster.webp"
             autoPlay
             muted
             loop
@@ -81,7 +81,10 @@ export default function VideoHero() {
             }}
             onError={() => setMissing(true)}
             className="size-full object-cover"
-          />
+          >
+            <source src="/videos/google-earth.webm" type="video/webm" />
+            <source src="/videos/google-earth.mp4" type="video/mp4" />
+          </video>
 
           {/* Bottom Floating Controls */}
           <div className="absolute bottom-3 right-3 z-10 flex items-center gap-1.5 rounded-lg border border-white/15 bg-slate-900/80 p-1 backdrop-blur-md">
