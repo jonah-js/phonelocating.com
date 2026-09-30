@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { getAllArticles } from "@/lib/articles";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = process.env.NEXT_PUBLIC_APP_URL || "https://phonelocating.com";
+  const baseUrl = process.env.NEXT_PUBLIC_APP_URL || "https://www.phonelocating.com";
 
   // Static site routes
   const staticRoutes: MetadataRoute.Sitemap = [

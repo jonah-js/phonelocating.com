@@ -11,7 +11,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || "https://www.phonelocating.com"),
   title: {
     default: "PhoneLocating – Track Phone Number Accurate to 2M | 3D Satellite",
     template: "%s | PhoneLocating",
